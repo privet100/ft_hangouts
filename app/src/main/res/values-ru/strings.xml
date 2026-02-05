@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ft_hangouts</string>
+
+    <!-- Main Activity -->
+    <string name="contacts">Контакты</string>
+    <string name="no_contacts">Контактов пока нет</string>
+    <string name="add_contact">Добавить контакт</string>
+
+    <!-- Contact Form -->
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="email">Email</string>
+    <string name="address">Адрес</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="edit_contact">Редактировать контакт</string>
+    <string name="new_contact">Новый контакт</string>
+    <string name="phone_required">Номер телефона обязателен</string>
+    <string name="contact_saved">Контакт сохранён</string>
+    <string name="contact_deleted">Контакт удалён</string>
+
+    <!-- Contact Detail -->
+    <string name="contact_details">Детали контакта</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="edit">Редактировать</string>
+
+    <!-- Conversation -->
+    <string name="conversation">Переписка</string>
+    <string name="type_message">Введите сообщение</string>
+    <string name="send">Отправить</string>
+    <string name="message_sent">Сообщение отправлено</string>
+    <string name="message_failed">Не удалось отправить сообщение</string>
+    <string name="no_messages">Сообщений пока нет</string>
+
+    <!-- Menu -->
+    <string name="header_color">Цвет шапки</string>
+    <string name="color_blue">Синий</string>
+    <string name="color_green">Зелёный</string>
+    <string name="color_red">Красный</string>
+    <string name="color_purple">Фиолетовый</string>
+    <string name="color_orange">Оранжевый</string>
+
+    <!-- Background time -->
+    <string name="app_was_in_background">Приложение было в фоне с: %s</string>
+
+    <!-- Permissions -->
+    <string name="sms_permission_required">Требуется разрешение на SMS</string>
+
+    <!-- Delete confirmation -->
+    <string name="delete_contact_title">Удалить контакт?</string>
+    <string name="delete_contact_message">Вы уверены, что хотите удалить этот контакт?</string>
+</resources>
